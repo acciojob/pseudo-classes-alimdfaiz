@@ -1,14 +1,14 @@
 /*  your css code here. If applicable */
 :root{
-	background-color:skyblue;
+	background-color:rgb(135, 206, 235);
 }
 
- div :first-child{
+ div p:first-child{
 	background-color:black;
 	color:white;
 }
 
- div :last-child{
+ div p:last-child{
 	color: red;
 }
 
