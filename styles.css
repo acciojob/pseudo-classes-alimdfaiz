@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 body{
-	background-color:rgb(135, 206, 235)
+	background-color:rgb(135, 206, 235);
 }
 p:first-child{
 	color:white;
@@ -10,6 +10,10 @@ p:nth-child(2){
 	color:black;
 }
 p:last-child{
+	color:red;
+}
+
+p:nth-child(4){
 	color:red;
 }
 li{
